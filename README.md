@@ -34,12 +34,6 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 ### **Registration:**
 The online Application will be found on [https://www.houches-school-physics.com](https://www.houches-school-physics.com) Applications will be open soon, and must reach the School before March 1, 2022 in order to be considered by the Selection Committee. The full cost per participant includes housing and meals, and is specified on the School’s Website. Further information can be found on the Website too. 
 
-
-<img src="http://www.fondation-cfm.fr/images/logo_CFM.png" alt="drawing" width="200"/><img src="https://www.myscience.ch/var/myscience/image/logo/snf_banner_fr.svg" alt="drawing" width="200"/>
-
-
-
 ### Sponsors
-![](http://www.fondation-cfm.fr/images/logo_CFM.png)![](https://www.myscience.ch/var/myscience/image/logo/snf_banner_fr.svg)![](https://upload.wikimedia.org/wikipedia/en/e/e9/European_Research_Council_logo.svg)![](https://upload.wikimedia.org/wikipedia/fr/7/79/Agence_Nationale_de_la_Recherche.svgg)![](https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_EPFL.svg)
-
+<img src="http://www.fondation-cfm.fr/images/logo_CFM.png" alt="drawing" width="200"/><img src="https://www.myscience.ch/var/myscience/image/logo/snf_banner_fr.svg" alt="drawing" width="200"/><img src="https://upload.wikimedia.org/wikipedia/en/e/e9/European_Research_Council_logo.svg" alt="drawing" width="200"/><img src="https://upload.wikimedia.org/wikipedia/fr/7/79/Agence_Nationale_de_la_Recherche.svgg" alt="drawing" width="200"/><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_EPFL.svg" alt="drawing" width="200"/>
 
