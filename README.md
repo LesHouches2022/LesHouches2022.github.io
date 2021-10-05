@@ -1,6 +1,8 @@
-## LES HOUCHES 2022 SCHOOL ON MACHINE LEARNING AND STATISTICAL PHYSICS
+<img src="https://www.houches-school-physics.com/uas/HOUCHES/LOGO/EPH_logo_h122.jpg" alt="drawing" width="200"/>
 
-### Organizers: Florent Krzakala  & Lenka Zdeborová, EPFL
+## Summer school on Statistical Physics of Machine learning
+
+### **Organisers:** Florent Krzakala and Lenka Zdeborova, EPFL
 
 ### **Overview:** 
 The school is aimed primarily at the growing audience of theoretical physicists, applied mathematicians, computer scientists and colleagues from other computational fields interested in machine learning, neural networks, and high-dimensional data analysis. We shall cover basics and frontiers of high-dimensional statistics, machine learning, theory of computing and statistical learning, and the related mathematics and probability theory. We will put a special focus on methods of statistical physics and their results in the context of current questions and theories related to these problems.  Open questions and directions will be discussed as well. 
@@ -36,5 +38,6 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 ### **Registration:**
 The online Application will be found on [https://www.houches-school-physics.com](https://www.houches-school-physics.com) Applications will be open soon, and must reach the School before March 1, 2022 in order to be considered by the Selection Committee. The full cost per participant includes housing and meals, and is specified on the School’s Website. Further information can be found on the Website too. 
 
-
+### Sponsors
+<img src="http://www.fondation-cfm.fr/images/logo_CFM.png" alt="drawing" width="200"/><img src="https://www.myscience.ch/var/myscience/image/logo/snf_banner_fr.svg" alt="drawing" width="200"/><img src="https://upload.wikimedia.org/wikipedia/en/e/e9/European_Research_Council_logo.svg" alt="drawing" width="100"/><img src="https://upload.wikimedia.org/wikipedia/fr/7/79/Agence_Nationale_de_la_Recherche.svg" alt="drawing" width="200"/><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_EPFL.svg" alt="drawing" width="200"/>
 
