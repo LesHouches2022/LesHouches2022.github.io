@@ -1,4 +1,5 @@
-<img src="https://www.houches-school-physics.com/uas/HOUCHES/LOGO/EPH_logo_h122.jpg" alt="drawing" width="200"/>
+<img src="https://www.houches-school-physics.com/uas/HOUCHES/LOGO/EPH_logo_h122.jpg" alt="drawing" width="200"/> LES HOUCHES SCHOOL OF PHYSICS
+SINCE 1951
 
 ## Summer school on Statistical Physics of Machine learning
 
