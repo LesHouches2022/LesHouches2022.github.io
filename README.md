@@ -37,7 +37,8 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Computational learning theory
 
 ### **Registration:**
-The online Application will be found on [https://www.houches-school-physics.com](https://www.houches-school-physics.com) Applications will be open soon, and must reach the School before March 1, 2022 in order to be considered by the Selection Committee. The full cost per participant includes housing and meals, and is specified on the School’s Website. Further information can be found on the Website too. Click [here](img/leshouches.pdf) for the poster of the conference.
+The online Applications are open:  [click here for inscription](https://formulaires.univ-grenoble-alpes.fr/en/houches-application-form-july-2022
+). Applications  must reach the School before March 1, 2022 in order to be considered by the Selection Committee. The full cost per participant includes housing and meals, and is specified on the School’s Website. Further information can be found on the Website too. Click [here](img/leshouches.pdf) for the poster of the conference.
 
 <img src="https://florentkrzakala.com/files/leshouches2020/Chalet.jpg" alt="drawing" width="600"/>
 
