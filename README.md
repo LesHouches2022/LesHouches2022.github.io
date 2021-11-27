@@ -40,7 +40,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 The online Applications are open:  [click here for inscription](https://formulaires.univ-grenoble-alpes.fr/en/houches-application-form-july-2022
 ). Applications  must reach the School before March 1, 2022 in order to be considered by the Selection Committee. The full cost per participant includes housing and meals, and is specified on the School’s Website. Further information can be found on the Website too. Click [here](img/leshouches.pdf) for the poster of the conference.
 
-<img src="https://florentkrzakala.com/files/leshouches2020/Chalet.jpg" alt="drawing" width="600"/>
+<img src="img/LesHouches.jpg" alt="drawing" width="800"/>
 
 ### Sponsors
 <img src="img/logo_CFM.jpg" alt="drawing" width="200"/><img src="https://www.myscience.ch/var/myscience/image/logo/snf_banner_fr.svg" alt="drawing" width="200"/><img src="https://upload.wikimedia.org/wikipedia/en/e/e9/European_Research_Council_logo.svg" alt="drawing" width="100"/><img src="https://upload.wikimedia.org/wikipedia/fr/7/79/Agence_Nationale_de_la_Recherche.svg" alt="drawing" width="150"/><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_EPFL.svg" alt="drawing" width="150"/>
