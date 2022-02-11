@@ -43,5 +43,5 @@ The online Applications are open:  [click here for inscription](https://formulai
 <img src="img/LesHouches.jpg" alt="drawing" width="800"/>
 
 ### Sponsors
-<img src="img/logo_CFM.jpg" alt="drawing" width="200"/><img src="https://www.myscience.ch/var/myscience/image/logo/snf_banner_fr.svg" alt="drawing" width="200"/><img src="https://upload.wikimedia.org/wikipedia/en/e/e9/European_Research_Council_logo.svg" alt="drawing" width="100"/><img src="https://upload.wikimedia.org/wikipedia/fr/7/79/Agence_Nationale_de_la_Recherche.svg" alt="drawing" width="150"/><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_EPFL.svg" alt="drawing" width="150"/>
+<img src="img/logo_CFM.jpg" alt="drawing" width="200"/><img src="https://www.myscience.ch/var/myscience/image/logo/snf_banner_fr.svg" alt="drawing" width="200"/><img src="https://upload.wikimedia.org/wikipedia/en/e/e9/European_Research_Council_logo.svg" alt="drawing" width="100"/><img src="https://anr.fr/typo3conf/ext/anr_skin/Resources/Public/assets/img/anr-logo-2021.png" alt="drawing" width="150"/><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_EPFL.svg" alt="drawing" width="150"/>
 
