@@ -20,7 +20,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Sara Solla (Northwestern Univ.)
 - Haim Sompolinsky (Harvard & Hebrew Univ.)
 - Nathan Srebro (TTI Chicago)
-- Nike Sun (MIT)
+- Julia Kempe (NYU)
 
 ### **Topics:**
 - Phase transition in machine learning
