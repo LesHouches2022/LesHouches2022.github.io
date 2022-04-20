@@ -9,10 +9,12 @@ SINCE 1951**
 The school is aimed primarily at the growing audience of theoretical physicists, applied mathematicians, computer scientists and colleagues from other computational fields interested in machine learning, neural networks, and high-dimensional data analysis. We shall cover basics and frontiers of high-dimensional statistics, machine learning, theory of computing and statistical learning, and the related mathematics and probability theory. We will put a special focus on methods of statistical physics and their results in the context of current questions and theories related to these problems.  Open questions and directions will be discussed as well. 
 
 ### **Teachers:**
+- Francis Bach (Inria, ENS)
 - Yasaman Bahri (Google)
 - Boaz Barak (Harvard)
 - Giulio Biroli (ENS Paris)
 - Michael I. Jordan (Berkeley)
+- Julia Kempe (NYU)
 - Yann LeCun (Facebook & NYU)
 - Marc Mézard (ENS Paris)
 - Remi Monasson (ENS Paris)
@@ -20,7 +22,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Sara Solla (Northwestern Univ.)
 - Haim Sompolinsky (Harvard & Hebrew Univ.)
 - Nathan Srebro (TTI Chicago)
-- Julia Kempe (NYU)
+- Eric Vanden-Eijnden (NUY Courant) 
 
 ### **Topics:**
 - Phase transition in machine learning
