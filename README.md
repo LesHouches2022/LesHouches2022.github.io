@@ -22,7 +22,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Sara Solla (Northwestern Univ.)
 - Haim Sompolinsky (Harvard & Hebrew Univ.)
 - Nathan Srebro (TTI Chicago)
-- Eric Vanden-Eijnden (NUY Courant) 
+- Eric Vanden-Eijnden (NYU Courant) 
 
 ### **Topics:**
 - Phase transition in machine learning
