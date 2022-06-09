@@ -61,11 +61,7 @@ SINCE 1951**
 * WAN	Yijun	ENS	Paris	France
 * YANAMURA	Atsushi	Applied Physics	Stanford	USA
 * ZLOKAPA	Alexander	MIT	Cambridge	USA
-* 
-* <img width="535" alt="image" src="https://user-images.githubusercontent.com/1806054/172792514-604f85dc-1339-4571-9b4b-7fcf066585a0.png">
 
-
- 
 
 ### Sponsors
 <img src="img/logo_CFM.jpg" alt="drawing" width="200"/><img src="https://www.myscience.ch/var/myscience/image/logo/snf_banner_fr.svg" alt="drawing" width="200"/><img src="https://upload.wikimedia.org/wikipedia/en/e/e9/European_Research_Council_logo.svg" alt="drawing" width="100"/><img src="https://anr.fr/typo3conf/ext/anr_skin/Resources/Public/assets/img/anr-logo-2021.png" alt="drawing" width="150"/><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_EPFL.svg" alt="drawing" width="150"/>
