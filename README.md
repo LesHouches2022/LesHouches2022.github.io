@@ -41,8 +41,17 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 ### **Preliminary calendar**
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FZurich&mode=WEEK&src=aWRlcGhpY3NsYWJAZ21haWwuY29t&color=%23039BE5;dates=20220704/20220710" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-### **Registration:**
-The online Applications are CLOSED. Applications  should haved reached the School before March 1, 2022 in order to be considered by the Selection Committee. The full cost per participant includes housing and meals, and is specified on the School’s Website. Further information can be found on the Website too. Click [here](img/leshouches.pdf) for the poster of the conference.
+### **Participants:**
+Find (here the list of participants)[participants.md] to the school.
+
+
+Applications  should haved reached the School before March 1, 2022 in order to be considered by the
+Selection Committee. The full cost per participant includes housing
+and meals, and is specified on the School’s Website. Further
+information can be found on the Website too. Click
+[here](img/leshouches.pdf) for the poster of the conference. The list
+of accepted particiants
+
 
 <img src="img/LesHouches.jpg" alt="drawing" width="800"/>
 
