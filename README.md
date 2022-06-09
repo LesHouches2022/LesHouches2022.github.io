@@ -17,9 +17,9 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Julia Kempe (NYU)
 - Yann LeCun (Facebook & NYU)
 - Marc Mézard (ENS Paris)
-- Remi Monasson (ENS Paris)
-- Andrea Montanari (Stanford)
-- Sara Solla (Northwestern Univ.)
+- Remi Monasson (ENS Paris) : *Replica method for computational problems with randomness: principles and illustrations*
+- Andrea Montanari (Stanford) : *Neural networks from a nonparametric viewpoint*
+- Sara Solla (Northwestern Univ.) 
 - Haim Sompolinsky (Harvard & Hebrew Univ.)
 - Nathan Srebro (TTI Chicago)
 - Eric Vanden-Eijnden (NYU Courant) 
