@@ -11,7 +11,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 ### **Teachers:**
 - Francis Bach (Inria, ENS)
 - Yasaman Bahri (Google)
-- Boaz Barak (Harvard) : * Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena*
+- Boaz Barak (Harvard) : *Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena*
 - Giulio Biroli (ENS Paris)
 - Michael I. Jordan (Berkeley)
 - Julia Kempe (NYU)
