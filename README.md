@@ -9,7 +9,7 @@ SINCE 1951**
 The school is aimed primarily at the growing audience of theoretical physicists, applied mathematicians, computer scientists and colleagues from other computational fields interested in machine learning, neural networks, and high-dimensional data analysis. We shall cover basics and frontiers of high-dimensional statistics, machine learning, theory of computing and statistical learning, and the related mathematics and probability theory. We will put a special focus on methods of statistical physics and their results in the context of current questions and theories related to these problems.  Open questions and directions will be discussed as well. 
 
 ### **Teachers:**
-- Francis Bach (Inria, ENS)
+- Francis Bach (Inria, ENS) : *Sums-of-squares: from polynomials to kernels*
 - Yasaman Bahri (Google)
 - Boaz Barak (Harvard) : *Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena*
 - Giulio Biroli (ENS Paris)
