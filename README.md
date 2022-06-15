@@ -12,7 +12,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Francis Bach (Inria, ENS) : *Sums-of-squares: from polynomials to kernels*
 - Yasaman Bahri (Google)
 - Boaz Barak (Harvard) : *Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena*
-- Giulio Biroli (ENS Paris)
+- Giulio Biroli (ENS Paris) : *High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics*
 - Michael I. Jordan (Berkeley)
 - Julia Kempe (NYU)
 - Yann LeCun (Facebook & NYU)
