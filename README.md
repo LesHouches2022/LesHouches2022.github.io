@@ -10,7 +10,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 
 ### **Teachers:**
 - Francis Bach (Inria, ENS) : *Sums-of-squares: from polynomials to kernels*
-- Yasaman Bahri (Google)
+- Yasaman Bahri (Google) and Boris Hanin (Princeton)
 - Boaz Barak (Harvard) : *Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena*
 - Giulio Biroli (ENS Paris) : *High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics*
 - Michael I. Jordan (Berkeley)
@@ -22,7 +22,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Sara Solla (Northwestern Univ.) 
 - Haim Sompolinsky (Harvard & Hebrew Univ.)
 - Nathan Srebro (TTI Chicago)
-- Eric Vanden-Eijnden (NYU Courant) 
+- Eric Vanden-Eijnden (NYU Courant) : *Benefits of overparametrization in statistical learning, & Enhancing MCMC Sampling with Learning*
 
 ### **Topics:**
 - Phase transition in machine learning
