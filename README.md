@@ -16,7 +16,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Michael I. Jordan (Berkeley)
 - Julia Kempe (NYU)
 - Yann LeCun (Facebook & NYU)
-- Marc Mézard (ENS Paris)
+- Marc Mézard (ENS Paris) : *Belief propagation, Message-Passing & Sparse models*
 - Remi Monasson (ENS Paris) : *Replica method for computational problems with randomness: principles and illustrations*
 - Andrea Montanari (Stanford) : *Neural networks from a nonparametric viewpoint*
 - Sara Solla (Northwestern Univ.) 
