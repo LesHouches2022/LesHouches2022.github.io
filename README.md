@@ -12,16 +12,16 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Francis Bach (Inria, ENS) : *Sums-of-squares: from polynomials to kernels*
 - Yasaman Bahri (Google) and Boris Hanin (Princeton)
 - Boaz Barak (Harvard) : *Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena*
-- Giulio Biroli (ENS Paris) : *High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics* [videos](https://www.youtube.com/watch?v=yIyLQ_UmxsY&list=PLEIq5bchE3R1mwhv3NHa3gfHlX9Ss9DVr)
+- Giulio Biroli (ENS Paris) : *High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics* [[videos]](https://www.youtube.com/watch?v=yIyLQ_UmxsY&list=PLEIq5bchE3R1mwhv3NHa3gfHlX9Ss9DVr)
 - Michael I. Jordan (Berkeley)
 - Julia Kempe (NYU)
 - Yann LeCun (Facebook & NYU)
 - Marc Mézard (ENS Paris) : *Belief propagation, Message-Passing & Sparse models*
-- Remi Monasson (ENS Paris) : *Replica method for computational problems with randomness: principles and illustrations* [videos](https://www.youtube.com/playlist?list=PLEIq5bchE3R1j7TMEeW-9xi22KPF3m2k5)
+- Remi Monasson (ENS Paris) : *Replica method for computational problems with randomness: principles and illustrations* [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1j7TMEeW-9xi22KPF3m2k5)
 - Andrea Montanari (Stanford) : *Neural networks from a nonparametric viewpoint*
 - Sara Solla (Northwestern Univ.) 
 - Haim Sompolinsky (Harvard & Hebrew Univ.)
-- Nathan Srebro (TTI Chicago) *Applying statistical learning theory to deep learning* [videos](https://www.youtube.com/playlist?list=PLEIq5bchE3R1XjmCpiKc960umHySw3neU)
+- Nathan Srebro (TTI Chicago) *Applying statistical learning theory to deep learning* [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1XjmCpiKc960umHySw3neU)
 - Eric Vanden-Eijnden (NYU Courant) : *Benefits of overparametrization in statistical learning, & Enhancing MCMC Sampling with Learning*
 
 ### **Topics:**
