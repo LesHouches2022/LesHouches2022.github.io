@@ -12,16 +12,16 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Francis Bach (Inria, ENS) : *Sums-of-squares: from polynomials to kernels*
 - Yasaman Bahri (Google) and Boris Hanin (Princeton)
 - Boaz Barak (Harvard) : *Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena*
-- Giulio Biroli (ENS Paris) : *High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics*
+- Giulio Biroli (ENS Paris) : *High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics* [videos](https://www.youtube.com/watch?v=yIyLQ_UmxsY&list=PLEIq5bchE3R1mwhv3NHa3gfHlX9Ss9DVr)
 - Michael I. Jordan (Berkeley)
 - Julia Kempe (NYU)
 - Yann LeCun (Facebook & NYU)
 - Marc Mézard (ENS Paris) : *Belief propagation, Message-Passing & Sparse models*
-- Remi Monasson (ENS Paris) : *Replica method for computational problems with randomness: principles and illustrations*
+- Remi Monasson (ENS Paris) : *Replica method for computational problems with randomness: principles and illustrations* [videos](https://www.youtube.com/playlist?list=PLEIq5bchE3R1j7TMEeW-9xi22KPF3m2k5)
 - Andrea Montanari (Stanford) : *Neural networks from a nonparametric viewpoint*
 - Sara Solla (Northwestern Univ.) 
 - Haim Sompolinsky (Harvard & Hebrew Univ.)
-- Nathan Srebro (TTI Chicago)
+- Nathan Srebro (TTI Chicago) *Applying statistical learning theory to deep learning* [videos](https://www.youtube.com/playlist?list=PLEIq5bchE3R1XjmCpiKc960umHySw3neU)
 - Eric Vanden-Eijnden (NYU Courant) : *Benefits of overparametrization in statistical learning, & Enhancing MCMC Sampling with Learning*
 
 ### **Topics:**
@@ -38,24 +38,18 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Statistical inference in high-dimension
 - Computational learning theory
 
-### **Preliminary calendar**
+### **Calendar**
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FZurich&mode=WEEK&src=aWRlcGhpY3NsYWJAZ21haWwuY29t&color=%23039BE5;dates=20220704/20220710" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=Leshouches2022&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #Leshouches2022</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
 ### **Participants:**
 Find [here the list of participants](participants.md) to the school.
 
-
-Applications  should haved reached the School before March 1, 2022 in order to be considered by the
-Selection Committee. The full cost per participant includes housing
-and meals, and is specified on the School’s Website. Further
-information can be found on the Website too. Click
-[here](img/leshouches.pdf) for the poster of the conference. The list
-of accepted particiants
-
+Click [here](img/leshouches.pdf) for the poster of the conference.
 
 <img src="img/LesHouches.jpg" alt="drawing" width="800"/>
 
