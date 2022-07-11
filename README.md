@@ -18,8 +18,8 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Yann LeCun (Facebook & NYU)
 - Marc Mézard (ENS Paris) : *Belief propagation, Message-Passing & Sparse models*
 - Remi Monasson (ENS Paris) : *Replica method for computational problems with randomness: principles and illustrations* [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1j7TMEeW-9xi22KPF3m2k5)
-- Andrea Montanari (Stanford) : *Neural networks from a nonparametric viewpoint*
-- Sara Solla (Northwestern Univ.) 
+- Andrea Montanari (Stanford) : *Neural networks from a nonparametric viewpoint* [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1hMF5Omlr-2t0nwKa0LrWL)
+- Sara Solla (Northwestern Univ.) [[videos]](https://www.youtube.com/watch?v=CisCradUosQ&list=PLEIq5bchE3R34TBXeKMBkUKkQ3u-IZMha)
 - Haim Sompolinsky (Harvard & Hebrew Univ.)
 - Nathan Srebro (TTI Chicago) *Applying statistical learning theory to deep learning* [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1XjmCpiKc960umHySw3neU)
 - Eric Vanden-Eijnden (NYU Courant) : *Benefits of overparametrization in statistical learning, & Enhancing MCMC Sampling with Learning*
