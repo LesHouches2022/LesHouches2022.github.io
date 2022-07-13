@@ -17,11 +17,11 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Julia Kempe (NYU)
 - Yann LeCun (Facebook & NYU)
 - Marc Mézard (ENS Paris) : *Belief propagation, Message-Passing & Sparse models*
-- Remi Monasson (ENS Paris) : *Replica method for computational problems with randomness: principles and illustrations* [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1j7TMEeW-9xi22KPF3m2k5)
+- Remi Monasson (ENS Paris) : *Replica method for computational problems with randomness: principles and illustrations*  **Slides** [[1]](SLIDES/Remi_Monasson_Intro_to_replica_method.pdf),  [[2]](SLIDES/Remi_Monasson_lowD_manifolds_in_RNN.pdf), [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1j7TMEeW-9xi22KPF3m2k5)
 - Andrea Montanari (Stanford) : *Neural networks from a nonparametric viewpoint* [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1hMF5Omlr-2t0nwKa0LrWL)
 - Sara Solla (Northwestern Univ.) [[videos]](https://www.youtube.com/watch?v=CisCradUosQ&list=PLEIq5bchE3R34TBXeKMBkUKkQ3u-IZMha)
 - Haim Sompolinsky (Harvard & Hebrew Univ.)
-- Nathan Srebro (TTI Chicago) *Applying statistical learning theory to deep learning* Slides [[1]](SLIDES/Les%20Hoches%202022%20intro%20part%201.pdf),    [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1XjmCpiKc960umHySw3neU)
+- Nathan Srebro (TTI Chicago) *Applying statistical learning theory to deep learning* **Slides** [[1]](SLIDES/Les%20Hoches%202022%20intro%20part%201.pdf),  [[2]](SLIDES/Les%20Houches%200722%20-%20Lecture%201.pdf),  [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1XjmCpiKc960umHySw3neU)
 - Eric Vanden-Eijnden (NYU Courant) : *Benefits of overparametrization in statistical learning, & Enhancing MCMC Sampling with Learning*
 
 ### **Topics:**
