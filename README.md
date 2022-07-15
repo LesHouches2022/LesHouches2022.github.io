@@ -20,7 +20,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Remi Monasson (ENS Paris) : *Replica method for computational problems with randomness: principles and illustrations*  **Slides** [[1]](SLIDES/Remi_Monasson_Intro_to_replica_method.pdf),  [[2]](SLIDES/Remi_Monasson_lowD_manifolds_in_RNN.pdf), [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1j7TMEeW-9xi22KPF3m2k5)
 - Andrea Montanari (Stanford) : *Neural networks from a nonparametric viewpoint* [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1hMF5Omlr-2t0nwKa0LrWL)
 - Sara Solla (Northwestern Univ.): *Statistical Physics, Bayesian Inference and Neural Information Processing* **Slides** [[1]](SLIDES/Les%20Houches%200722%20-%20Lecture%201.pdf), [[2]](SLIDES/Les%20Houches%200722%20-%20Lecture%202.pdf),[[videos]](https://www.youtube.com/watch?v=CisCradUosQ&list=PLEIq5bchE3R34TBXeKMBkUKkQ3u-IZMha)
-- Haim Sompolinsky (Harvard & Hebrew Univ.)
+- Haim Sompolinsky (Harvard & Hebrew Univ.): *Statistical Mechanics of Machine Learning* [[videos]](https://www.youtube.com/watch?v=sJswk8JhdOk&list=PLEIq5bchE3R2MM_qCYzDS_b4uOZQXdrBj&ab_channel=LesHouches2022)
 - Nathan Srebro (TTI Chicago) *Applying statistical learning theory to deep learning* **Slides** [[1]](SLIDES/Les%20Hoches%202022%20intro%20part%201.pdf),  [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1XjmCpiKc960umHySw3neU)
 - Eric Vanden-Eijnden (NYU Courant) : *Benefits of overparametrization in statistical learning, & Enhancing MCMC Sampling with Learning*
 
