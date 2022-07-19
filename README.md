@@ -11,7 +11,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 ### **Teachers:**
 - Francis Bach (Inria, ENS) : *Sums-of-squares: from polynomials to kernels*
 - Yasaman Bahri (Google) and Boris Hanin (Princeton)
-- Boaz Barak (Harvard) : *Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena*
+- Boaz Barak (Harvard) : *Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena* [[videos]](https://www.youtube.com/watch?v=PLyK7ADl0bw&list=PLEIq5bchE3R32vVNjHnDEUyFFFZsa17Ij&ab_channel=LesHouches2022)
 - Giulio Biroli (ENS Paris) : *High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics* [[videos]](https://www.youtube.com/watch?v=yIyLQ_UmxsY&list=PLEIq5bchE3R1mwhv3NHa3gfHlX9Ss9DVr)
 - Michael I. Jordan (Berkeley)
 - Julia Kempe (NYU): *Data, Physics and Kernels and how can (statistical) physics tools help the DL practitioner*
