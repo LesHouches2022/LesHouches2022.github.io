@@ -13,7 +13,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Yasaman Bahri (Google) and Boris Hanin (Princeton)
 - Boaz Barak (Harvard) : *Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena* [[videos]](https://www.youtube.com/watch?v=PLyK7ADl0bw&list=PLEIq5bchE3R32vVNjHnDEUyFFFZsa17Ij&ab_channel=LesHouches2022)
 - Giulio Biroli (ENS Paris) : *High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics* [[videos]](https://www.youtube.com/watch?v=yIyLQ_UmxsY&list=PLEIq5bchE3R1mwhv3NHa3gfHlX9Ss9DVr)
-- Michael I. Jordan (Berkeley) On decision, dynamics, incentives, and mechanisms design [[videos]](https://www.youtube.com/watch?v=sRL6KXVPzn8&list=PLEIq5bchE3R3YzGjTH66tVHbBshI_HKec)
+- Michael I. Jordan (Berkeley) *On decision, dynamics, incentives, and mechanisms design* [[videos]](https://www.youtube.com/watch?v=sRL6KXVPzn8&list=PLEIq5bchE3R3YzGjTH66tVHbBshI_HKec)
 - Julia Kempe (NYU): *Data, Physics and Kernels and how can (statistical) physics tools help the DL practitioner*
 - Yann LeCun (Facebook & NYU)
 - Marc Mézard (ENS Paris) : *Belief propagation, Message-Passing & Sparse models*
