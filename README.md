@@ -10,12 +10,12 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 
 ### **Teachers:**
 - Francis Bach (Inria, ENS) : *Sums-of-squares: from polynomials to kernels* [[videos]](https://www.youtube.com/watch?v=xyH7iZ7fs9o&ab_channel=LesHouches2022)
-- Yasaman Bahri (Google) and Boris Hanin (Princeton)
+- Yasaman Bahri (Google) and Boris Hanin (Princeton) : *Deep Learning at Large and Infinite Width*
 - Boaz Barak (Harvard) : *Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena* [[videos]](https://www.youtube.com/watch?v=PLyK7ADl0bw&list=PLEIq5bchE3R32vVNjHnDEUyFFFZsa17Ij&ab_channel=LesHouches2022)
 - Giulio Biroli (ENS Paris) : *High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics* [[videos]](https://www.youtube.com/watch?v=yIyLQ_UmxsY&list=PLEIq5bchE3R1mwhv3NHa3gfHlX9Ss9DVr)
 - Michael I. Jordan (Berkeley) *On decision, dynamics, incentives, and mechanisms design* [[videos]](https://www.youtube.com/watch?v=sRL6KXVPzn8&list=PLEIq5bchE3R3YzGjTH66tVHbBshI_HKec)
 - Julia Kempe (NYU): *Data, Physics and Kernels and how can (statistical) physics tools help the DL practitioner*
-- Yann LeCun (Facebook & NYU)
+- Yann LeCun (Facebook & NYU) : *From machine learning to autonomous intelligence*
 - Marc Mézard (ENS Paris) : *Belief propagation, Message-Passing & Sparse models*
 - Remi Monasson (ENS Paris) : *Replica method for computational problems with randomness: principles and illustrations*  **Slides** [[1]](SLIDES/Remi_Monasson_Intro_to_replica_method.pdf),  [[2]](SLIDES/Remi_Monasson_lowD_manifolds_in_RNN.pdf), [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1j7TMEeW-9xi22KPF3m2k5)
 - Andrea Montanari (Stanford) : *Neural networks from a nonparametric viewpoint* [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1hMF5Omlr-2t0nwKa0LrWL)
