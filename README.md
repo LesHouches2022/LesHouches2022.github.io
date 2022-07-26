@@ -13,11 +13,11 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 
 ### **Teachers:**
 - Francis Bach (Inria, ENS) : *Sums-of-squares: from polynomials to kernels* [[videos]](https://www.youtube.com/watch?v=xyH7iZ7fs9o&ab_channel=LesHouches2022)
-- Yasaman Bahri (Google) and Boris Hanin (Princeton) : *Deep Learning at Large and Infinite Width*
+- Yasaman Bahri (Google) and Boris Hanin (Princeton) : *Deep Learning at Large and Infinite Width* [[videos]](https://www.youtube.com/watch?v=lwePEWAjSaQ&list=PLEIq5bchE3R1QYiNthdj9rJDa4TUzR-Yb)
 - Boaz Barak (Harvard) : *Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena* [[videos]](https://www.youtube.com/watch?v=PLyK7ADl0bw&list=PLEIq5bchE3R32vVNjHnDEUyFFFZsa17Ij&ab_channel=LesHouches2022)
 - Giulio Biroli (ENS Paris) : *High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics* [[videos]](https://www.youtube.com/watch?v=yIyLQ_UmxsY&list=PLEIq5bchE3R1mwhv3NHa3gfHlX9Ss9DVr)
 - Michael I. Jordan (Berkeley) *On decision, dynamics, incentives, and mechanisms design* [[videos]](https://www.youtube.com/watch?v=sRL6KXVPzn8&list=PLEIq5bchE3R3YzGjTH66tVHbBshI_HKec)
-- Julia Kempe (NYU): *Data, Physics and Kernels and how can (statistical) physics tools help the DL practitioner*
+- Julia Kempe (NYU): *Data, Physics and Kernels and how can (statistical) physics tools help the DL practitioner* [[videos]](https://www.youtube.com/watch?v=j5emVzI0xxg&list=PLEIq5bchE3R34EtRCbBVWGUXxvjNJ_YSr)
 - Yann LeCun (Facebook & NYU) : *From machine learning to autonomous intelligence* [[videos]](https://youtube.com/playlist?list=PLEIq5bchE3R3Yl5taXdYA04a9kH9yvyGm)
 - Marc Mézard (ENS Paris) : *Belief propagation, Message-Passing & Sparse models*
 - Remi Monasson (ENS Paris) : *Replica method for computational problems with randomness: principles and illustrations*  **Slides** [[1]](SLIDES/Remi_Monasson_Intro_to_replica_method.pdf),  [[2]](SLIDES/Remi_Monasson_lowD_manifolds_in_RNN.pdf), [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1j7TMEeW-9xi22KPF3m2k5)
@@ -25,7 +25,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Sara Solla (Northwestern Univ.): *Statistical Physics, Bayesian Inference and Neural Information Processing* **Slides** [[1]](SLIDES/Les%20Houches%200722%20-%20Lecture%201.pdf), [[2]](SLIDES/Les%20Houches%200722%20-%20Lecture%202.pdf),[[3]](SLIDES/Les%20Houches%200722%20-%20Lecture%203%20.pdf), [[videos]](https://www.youtube.com/watch?v=CisCradUosQ&list=PLEIq5bchE3R34TBXeKMBkUKkQ3u-IZMha)
 - Haim Sompolinsky (Harvard & Hebrew Univ.): *Statistical Mechanics of Machine Learning* [[videos]](https://www.youtube.com/watch?v=sJswk8JhdOk&list=PLEIq5bchE3R2MM_qCYzDS_b4uOZQXdrBj&ab_channel=LesHouches2022)
 - Nathan Srebro (TTI Chicago) *Applying statistical learning theory to deep learning* **Slides** [[1]](SLIDES/Les%20Hoches%202022%20intro%20part%201.pdf),  [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1XjmCpiKc960umHySw3neU)
-- Eric Vanden-Eijnden (NYU Courant) : *Benefits of overparametrization in statistical learning, & Enhancing MCMC Sampling with Learning*
+- Eric Vanden-Eijnden (NYU Courant) : *Benefits of overparametrization in statistical learning, & Enhancing MCMC Sampling with Learning* [[videos]](https://www.youtube.com/watch?v=pHLPgLz7y88&list=PLEIq5bchE3R2ChG623ftBNv-aOnWB0fbu)
 - Matthieu Wyart (EPFL) : *Loss landscape, over-parametrization and curse of dimensionality in deep learning* **Slides** [[1]](SLIDES/houches22%20%5BAuto-saved%5D.pdf)
 
 ### **Topics:**
