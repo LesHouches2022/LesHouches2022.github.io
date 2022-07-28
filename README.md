@@ -26,7 +26,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Haim Sompolinsky (Harvard & Hebrew Univ.): *Statistical Mechanics of Machine Learning* [[videos]](https://www.youtube.com/watch?v=sJswk8JhdOk&list=PLEIq5bchE3R2MM_qCYzDS_b4uOZQXdrBj&ab_channel=LesHouches2022)
 - Nathan Srebro (TTI Chicago) *Applying statistical learning theory to deep learning* **Slides** [[1]](SLIDES/Les%20Hoches%202022%20intro%20part%201.pdf), [[2]](SLIDES/Les%20Hoches%202022%20intro%20lecture%202.pdf), [[3]](SLIDES/Les%20Hoches%202022%20implicit%20bias.pdf), [[4]](SLIDES/Les%20Hoches%202022%20convex%20optimization.pdf), [[5]](SLIDES/TTIC%20Lecture%2015.pdf), [[6]](SLIDES/TTIC%20Lecture%2016.pdf), [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R1XjmCpiKc960umHySw3neU)
 - Eric Vanden-Eijnden (NYU Courant) : *Benefits of overparametrization in statistical learning, & Enhancing MCMC Sampling with Learning* [[videos]](https://www.youtube.com/watch?v=pHLPgLz7y88&list=PLEIq5bchE3R2ChG623ftBNv-aOnWB0fbu)
-- Matthieu Wyart (EPFL) : *Loss landscape, over-parametrization and curse of dimensionality in deep learning* **Slides** [[1]](SLIDES/houches22%20%5BAuto-saved%5D.pdf)
+- Matthieu Wyart (EPFL) : *Loss landscape, over-parametrization and curse of dimensionality in deep learning* **Slides** [[1]](SLIDES/houches22%20%5BAuto-saved%5D.pdf)[[videos]](https://www.youtube.com/watch?v=UDBH3OJaor8&list=PLEIq5bchE3R14YSHvKxErO8YuEOMuiTYC&ab_channel=LesHouches2022)
 
 ### **Topics:**
 - Phase transition in machine learning
