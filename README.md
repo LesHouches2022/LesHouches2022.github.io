@@ -12,7 +12,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 
 
 ### **Teachers:**
-- Francis Bach (Inria, ENS) : *Sums-of-squares: from polynomials to kernels* [[videos]](https://www.youtube.com/watch?v=xyH7iZ7fs9o&ab_channel=LesHouches2022)
+- Francis Bach (Inria, ENS) : *Sums-of-squares: from polynomials to kernels* [[videos]]([https://www.youtube.com/watch?v=xyH7iZ7fs9o&ab_channel=LesHouches2022](https://www.youtube.com/playlist?list=PLEIq5bchE3R3bdFLPAlQaLz_F8WXRr0KY))
 - Yasaman Bahri (Google) and Boris Hanin (Princeton) : *Deep Learning at Large and Infinite Width* [[videos]](https://www.youtube.com/watch?v=lwePEWAjSaQ&list=PLEIq5bchE3R1QYiNthdj9rJDa4TUzR-Yb)
 - Boaz Barak (Harvard) : *Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena* [[videos]](https://www.youtube.com/watch?v=PLyK7ADl0bw&list=PLEIq5bchE3R32vVNjHnDEUyFFFZsa17Ij&ab_channel=LesHouches2022)
 - Giulio Biroli (ENS Paris) : *High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics* [[videos]](https://www.youtube.com/watch?v=yIyLQ_UmxsY&list=PLEIq5bchE3R1mwhv3NHa3gfHlX9Ss9DVr)
