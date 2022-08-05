@@ -42,13 +42,7 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 - Statistical inference in high-dimension
 - Computational learning theory
 
-### **Calendar**
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FZurich&mode=WEEK&src=aWRlcGhpY3NsYWJAZ21haWwuY29t&color=%23039BE5;dates=20220704/20220710" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-
-
 <a href="https://twitter.com/intent/tweet?button_hashtag=Leshouches2022&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #Leshouches2022</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ### **Participants:**
 Find [here the list of participants](participants.md) to the school.
