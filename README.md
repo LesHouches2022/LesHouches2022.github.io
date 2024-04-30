@@ -12,10 +12,11 @@ The school is aimed primarily at the growing audience of theoretical physicists,
 
 
 ### **Teachers:**
-- Francis Bach (Inria, ENS) : *Sums-of-squares: from polynomials to kernels* [[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R3bdFLPAlQaLz_F8WXRr0KY)
-- Yasaman Bahri (Google) and Boris Hanin (Princeton) : *Deep Learning at Large and Infinite Width* [[videos]](https://www.youtube.com/watch?v=lwePEWAjSaQ&list=PLEIq5bchE3R1QYiNthdj9rJDa4TUzR-Yb)
+- Francis Bach (Inria, ENS) : *Sums-of-squares: from polynomials to kernels* [[lectures notes]](https://arxiv.org/abs/2306.16255
+)[[videos]](https://www.youtube.com/playlist?list=PLEIq5bchE3R3bdFLPAlQaLz_F8WXRr0KY) 
+- Yasaman Bahri (Google) and Boris Hanin (Princeton) : *Deep Learning at Large and Infinite Width* [[lectures notes]]( https://arxiv.org/abs/2309.01592)[[videos]](https://www.youtube.com/watch?v=lwePEWAjSaQ&list=PLEIq5bchE3R1QYiNthdj9rJDa4TUzR-Yb)
 - Boaz Barak (Harvard) : *Computational Complexity of Deep learning: Fundamental limitations and Empirical phenomena* [[videos]](https://www.youtube.com/watch?v=PLyK7ADl0bw&list=PLEIq5bchE3R32vVNjHnDEUyFFFZsa17Ij&ab_channel=LesHouches2022)
-- Giulio Biroli (ENS Paris) : *High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics* [[videos]](https://www.youtube.com/watch?v=yIyLQ_UmxsY&list=PLEIq5bchE3R1mwhv3NHa3gfHlX9Ss9DVr)
+- Giulio Biroli (ENS Paris) : *High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics* [[lectures notes]](https://arxiv.org/abs/2308.03754)[[videos]](https://www.youtube.com/watch?v=yIyLQ_UmxsY&list=PLEIq5bchE3R1mwhv3NHa3gfHlX9Ss9DVr)
 - Michael I. Jordan (Berkeley) *On decision, dynamics, incentives, and mechanisms design* [[videos]](https://www.youtube.com/watch?v=sRL6KXVPzn8&list=PLEIq5bchE3R3YzGjTH66tVHbBshI_HKec)
 - Julia Kempe (NYU): *Data, Physics and Kernels and how can (statistical) physics tools help the DL practitioner* **slides**[[1]](SLIDES/Kernels%2C%20Data%20and%20Physics%20-%20Les%20Houches.pdf), [[videos]](https://www.youtube.com/watch?v=j5emVzI0xxg&list=PLEIq5bchE3R34EtRCbBVWGUXxvjNJ_YSr)
 - Yann LeCun (Facebook & NYU) : *From machine learning to autonomous intelligence*  **slides**: [[1]](SLIDES/compressed-yann-1.pdf), [[2]](/SLIDES/lecun-20220720-leshouches-02.pdf), [[3]](SLIDES/lecun-20220720-leshouches-03.pdf), [[videos]](https://youtube.com/playlist?list=PLEIq5bchE3R3Yl5taXdYA04a9kH9yvyGm)
