@@ -4,7 +4,7 @@ SINCE 1951**
 ## Summer school on Statistical Physics of Machine learning
 ### **Organisers:** Florent Krzakala and Lenka Zdeborova, EPFL
 
-### <a href="[966817](https://iopscience.iop.org/article/10.1088/1742-5468/ad4e2a)">CHECK OUT THE BOOK AND THE LECTURE NOTES OF THE SCHOOL ON IOP</a>
+### <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad4e2a">CHECK OUT THE BOOK AND THE LECTURE NOTES OF THE SCHOOL ON IOP</a>
 
 
 ### **Overview:** 
