@@ -55,7 +55,7 @@ Find [here the list of participants](participants.md) to the school.
 
 Click [here](img/leshouches.pdf) for the poster of the conference.
 
-<img src="https://florentkrzakala.com/media/albums/demo/IMG_2135.jpeg" alt="drawing" width="800"/>
+<img src="img/LesHouches.jpg" alt="drawing" width="800"/>
 
 <img src="img/bandau_tous les logos 2022.jpg" alt="drawing" width="1000"/> 
 
