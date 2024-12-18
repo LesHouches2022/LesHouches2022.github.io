@@ -4,6 +4,9 @@ SINCE 1951**
 ## Summer school on Statistical Physics of Machine learning
 ### **Organisers:** Florent Krzakala and Lenka Zdeborova, EPFL
 
+### <a href="[966817](https://iopscience.iop.org/article/10.1088/1742-5468/ad4e2a)">CHECK OUT THE BOOK AND THE LECTURE NOTES OF THE SCHOOL ON IOP</a>
+
+
 ### **Overview:** 
 The school is aimed primarily at the growing audience of theoretical physicists, applied mathematicians, computer scientists and colleagues from other computational fields interested in machine learning, neural networks, and high-dimensional data analysis. We shall cover basics and frontiers of high-dimensional statistics, machine learning, theory of computing and statistical learning, and the related mathematics and probability theory. We will put a special focus on methods of statistical physics and their results in the context of current questions and theories related to these problems.  Open questions and directions will be discussed as well. 
 
@@ -52,7 +55,7 @@ Find [here the list of participants](participants.md) to the school.
 
 Click [here](img/leshouches.pdf) for the poster of the conference.
 
-<img src="img/LesHouches.jpg" alt="drawing" width="800"/>
+<img src="https://florentkrzakala.com/media/albums/demo/IMG_2135.jpeg" alt="drawing" width="800"/>
 
 <img src="img/bandau_tous les logos 2022.jpg" alt="drawing" width="1000"/> 
 
